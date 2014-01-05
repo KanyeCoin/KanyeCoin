@@ -1,9 +1,0 @@
-Building Kanyecoin
-
-See doc/readme-qt.rst for instructions on building Kanyecoin-QT,
-the intended-for-end-users, nice-graphical-interface, reference
-implementation of Junkcoin.
-
-See doc/build-*.txt for instructions on building Kanyecoind,
-the intended-for-services, no-graphical-interface, reference
-implementation of Kanyecoin.
